@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>process_add.png</file>
+        <file>sequence_process.png</file>
+        <file>process_status.png</file>
+        <file>FabProccess.png</file>
+        <file>add.png</file>
+        <file>down-side.png</file>
+        <file>swipe-up.png</file>
+    </qresource>
+</RCC>
