@@ -30,6 +30,14 @@ private slots:
     void on_tbProcesos_doubleClicked(const QModelIndex &index);
     void on_cmdSubir_clicked();
 
+    void on_cmdBajar_clicked();
+
+    void on_cmdGestor_clicked();
+
+    void on_cmbTipoProceso_currentIndexChanged(int index);
+
+    void cargarTablaProcesos();
+
 private:
     Ui::MainWindow *ui;
 };

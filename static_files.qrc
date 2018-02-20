@@ -7,5 +7,7 @@
         <file>add.png</file>
         <file>down-side.png</file>
         <file>swipe-up.png</file>
+        <file>start.png</file>
+        <file>kill.png</file>
     </qresource>
 </RCC>
